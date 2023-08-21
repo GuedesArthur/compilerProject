@@ -1,9 +1,12 @@
-# Compiladores 2023.2
-## Projeto final
+# Compiladores 2023.2 - Projeto Final
+### Professor Dr. Francisco Isidro Massetto
 ### Arthur Navarro Guedes - 11085314
 
 ## Linguagem utilizada
 #### C++17
+
+#### [Link do vídeo de apresentação](https://youtu.be/BlSberU3r_g)
+
 ## Itens obrigatórios
 - [x] Possui 2 tipos de variáveis
 - [x] Possui a estrutura if.. else
